@@ -19,6 +19,7 @@
 		19CFC59D28E3BDEE00DE8256 /* MapViewActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CFC59C28E3BDEE00DE8256 /* MapViewActionButton.swift */; };
 		19CFC59F28E3C3A300DE8256 /* LocationSearchViewInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CFC59E28E3C3A200DE8256 /* LocationSearchViewInterface.swift */; };
 		19CFC5A128E3C73B00DE8256 /* LocationSearchResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CFC5A028E3C73A00DE8256 /* LocationSearchResultCell.swift */; };
+		19F555C028ECB8CD0043DA6D /* MapViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19F555BF28ECB8CD0043DA6D /* MapViewState.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		19CFC59C28E3BDEE00DE8256 /* MapViewActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewActionButton.swift; sourceTree = "<group>"; };
 		19CFC59E28E3C3A200DE8256 /* LocationSearchViewInterface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchViewInterface.swift; sourceTree = "<group>"; };
 		19CFC5A028E3C73A00DE8256 /* LocationSearchResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchResultCell.swift; sourceTree = "<group>"; };
+		19F555BF28ECB8CD0043DA6D /* MapViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewState.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 			isa = PBXGroup;
 			children = (
 				19C4C00028E4EAD90016DE98 /* LocationModelSearch.swift */,
+				19F555BF28ECB8CD0043DA6D /* MapViewState.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				19CFC59B28E3BBDD00DE8256 /* LocationSearchView.swift in Sources */,
 				19CFC59228E39AAC00DE8256 /* HomeView.swift in Sources */,
 				19CFC59828E3A02C00DE8256 /* LocationManager.swift in Sources */,
+				19F555C028ECB8CD0043DA6D /* MapViewState.swift in Sources */,
 				19CFC58228E3987100DE8256 /* ContentView.swift in Sources */,
 				19CFC59F28E3C3A300DE8256 /* LocationSearchViewInterface.swift in Sources */,
 				19CFC5A128E3C73B00DE8256 /* LocationSearchResultCell.swift in Sources */,
